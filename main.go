@@ -33,7 +33,3 @@ func Abs(x float64) float64 {
 func Yn(a int, b float64) float64 {
 	return math.Yn(a, b)
 }
-
-func Return() {
-	return
-}
